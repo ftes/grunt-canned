@@ -9,7 +9,7 @@
 'use strict';
 
 var http = require('http');
-var canned = require('canned');
+var canned = require('ftes-canned');
 
 module.exports = function (grunt) {
 
